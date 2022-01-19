@@ -26,7 +26,6 @@ autor Paulo Coelho
 paragraf
 
 
-``
 
 		def silnia(n):
 			if n>1:
@@ -35,19 +34,17 @@ paragraf
 				return 1
 
 
-``
+
 halo halo
 
 
 					kodzik rekurencyjny
-		``def fib(n):
+		```def fib(n):
 			if n<2:
 				return 1
 			else:
 
-				return fib(n-1)+fib(n-2)``
-
-``
+				return fib(n-1)+fib(n-2)```
 
 
 
