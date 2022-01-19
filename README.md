@@ -23,7 +23,6 @@ autor Paulo Coelho
 - Third item
 
 
-``
 
 		def silnia(n):
 			if n>1:
@@ -37,14 +36,12 @@ autor Paulo Coelho
 
 ``
 
-		def silnia(n):
-			if n>1:
-				return n*silnia(n-1)
+		def fib(n):
+			if n<2:
+				return 1
 			else:
 
-				return 1
-			`nauka rekurencji`
+				return fib(n-1)+fib(n-2)
 
 
-``
 		
