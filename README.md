@@ -48,5 +48,8 @@ kodzik rekurencyjny
 				return fib(n-1)+fib(n-2)
 
 
+Tekst i `nano plik.py` uchowany
+
+
 
 [![cute cat](https://64.media.tumblr.com/0b7b5e65370f555b1ca8c38d42b2f024/13b3dddecae60a8f-78/s500x750/a47a883b1b7f4290a822658ff3dd54f9856f7c90.jpg)
