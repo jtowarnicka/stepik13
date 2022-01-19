@@ -23,6 +23,10 @@ autor Paulo Coelho
 - Third item
 
 
+paragraf
+
+
+
 
 		def silnia(n):
 			if n>1:
@@ -30,11 +34,11 @@ autor Paulo Coelho
 			else:
 				return 1
 
-``
 
 
 
-``
+
+
 
 		def fib(n):
 			if n<2:
@@ -44,4 +48,7 @@ autor Paulo Coelho
 				return fib(n-1)+fib(n-2)
 
 
-		
+
+
+
+[![cute cat](https://64.media.tumblr.com/0b7b5e65370f555b1ca8c38d42b2f024/13b3dddecae60a8f-78/s500x750/a47a883b1b7f4290a822658ff3dd54f9856f7c90.jpg)
