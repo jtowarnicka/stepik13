@@ -39,6 +39,7 @@ halo halo
 
 
 kodzik rekurencyjny
+
 		```def fib(n):
 			if n<2:
 				return 1
